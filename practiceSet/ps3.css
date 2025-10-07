@@ -1,0 +1,42 @@
+div {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border-radius: 50%;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+nav {
+  height: 50px;
+  background-color: #252529;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+  margin: 6px;
+}
+
+ul{
+  display: flex;
+  justify-content: space-between;
+  margin: 0px;
+  padding: 0px;
+}
+
+button {
+  margin: 0px 100px 0px 5px;
+  background-color: #f19b53;
+  color: white;
+}
+
+#in {
+  color: #f19b53;
+  font-weight: 700;
+  font-size: 25px;
+  margin: 0;
+}
