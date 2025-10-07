@@ -17,7 +17,7 @@ nav {
 
 li {
   list-style-type: none;
-  display: inline;
+  display: inline-block;
   margin: 6px;
 }
 
@@ -39,4 +39,5 @@ button {
   font-weight: 700;
   font-size: 25px;
   margin: 0;
+  padding: 0;
 }

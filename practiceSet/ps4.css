@@ -1,0 +1,55 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  color: white;
+}
+
+.navbar {
+  background-color: #0f1111;
+  height: 60px;
+}
+
+a {
+  margin-right: 300px;
+  text-decoration: none;
+}
+
+#in {
+  color: #f08804;
+  font-size: 25px;
+}
+
+button {
+  background-color: #f08804;
+  padding: 0px 2px;
+}
+
+.container {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  border: 2px solid black;
+}
+
+#first {
+  background-color: rgba(225, 0, 0, 0.5);
+
+}
+
+#second {
+  background-color: rgba(0, 255, 0, 0.5);
+}
+
+#third {
+  background-color: rgba(0, 0, 255, 0.5);
+}
+
+main{
+  height: 800px;
+}
+
+footer p {
+  color: #0f1111;
+  text-align: center;
+}
+
