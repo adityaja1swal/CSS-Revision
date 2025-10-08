@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: black;
+}
+
+nav ul{
+  display: flex;
+  justify-content: space-around;
+}
+
+
+nav ul li {
+  display: inline-block;
+  text-decoration: none;
+  margin: 5px;
+
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+#outer {
+  background-color: aqua;
+  height: 500px;
+  width: 500px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#inner {
+  /* align-self: center; */
+  background-color: pink;
+  border: 2px dotted black;
+  height: 100px;
+  width: 100px;
+}
