@@ -5,7 +5,6 @@
   border: 20px solid #4E56C0;
   border-top: 20px solid #9B5DE0;
   animation: loading 2s steps(5) 0s infinite normal;
-  animation
 }
 
 @keyframes loading {
